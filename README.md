@@ -1,6 +1,6 @@
 # Traffic_Signs_classification
 ``` 
-1.cd to the drive where this .py is located.
+1.cd to the drive where this repo is located.
 2.open cmd in your python env
 3.run > python Traffic_app.py
 
